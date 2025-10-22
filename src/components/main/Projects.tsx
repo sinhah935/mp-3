@@ -9,7 +9,7 @@ export default function Projects() {
             <StyledH2> My Projects </StyledH2>
             <br/>
             <StyledDivSegments className="segments">
-                <StyledImg src="/public/img/car.png" alt="Car"/>
+                <StyledImg src={`../../../car.png`} alt="Car"/>
                 <div className="project-desc">
                     <StyledH2 className="project"> Autonomous F1Tenth Vehicle</StyledH2>
                     <br/>
@@ -30,7 +30,7 @@ export default function Projects() {
             </StyledDivSegments>
 
             <StyledDivSegments className="segments">
-                <StyledImg src="/public/img/board.png" alt="Ball-Board"/>
+                <StyledImg src={`../../../board.png`} alt="Ball-Board"/>
                 <div className="project-desc">
                     <StyledH2 className="project"> Ball-Balancing</StyledH2>
                     <br/>
