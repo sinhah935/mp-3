@@ -54,7 +54,7 @@ export default function Home() {
             <br/>
             <StyledDivSegments className="segments">
                 <StyledImg src="/img/pfp2.jpg" alt="pfp"/>
-                <StyledParagraph> Welcome to my online resume! <br/>
+                <StyledParagraph>  to my online resume! <br/>
                     My name is Mohammed Sinhah. I am 21 years old and
                     was born and raised in Brooklyn, NY.<br/>
                     I am interested in Cyber Physical
