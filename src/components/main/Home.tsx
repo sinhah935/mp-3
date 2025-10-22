@@ -53,7 +53,7 @@ export default function Home() {
             <StyledH2> Welcome to my Online Resume! </StyledH2>
             <br/>
             <StyledDivSegments className="segments">
-                <StyledImg src="../public/img/pfp2.jpg" alt="pfp"/>
+                <StyledImg src="/img/pfp2.jpg" alt="pfp"/>
                 <StyledParagraph> Welcome to my online resume! <br/>
                     My name is Mohammed Sinhah. I am 21 years old and
                     was born and raised in Brooklyn, NY.<br/>
