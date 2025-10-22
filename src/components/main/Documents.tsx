@@ -10,12 +10,13 @@ export default function Documents() {
     `
     return (
         <StyledMain>
+            <title>Documents | Resume</title>
             <StyledH2> Resume </StyledH2>
             <br/>
             <StyledParagraph> Here is my full Resume. Thank you for visiting!</StyledParagraph>
             <br/>
             <div className="segments">
-                <StyledResImg id="resume" src="../../../public/img/Resume.png" alt="Resume"/>
+                <StyledResImg id="resume" src="/public/img/Resume.png" alt="Resume"/>
                 <br/>
             </div>
         </StyledMain>

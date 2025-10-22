@@ -4,10 +4,11 @@ export default function Experience() {
 
     return (
         <StyledMain>
+            <title>Experience | Resume</title>
             <StyledH2> Software Engineer Intern : May 2025 - Aug 2025 </StyledH2>
             <br/>
             <StyledDivSegments className="segments">
-                <StyledImg src="../../../public/img/TriumphInterns.jpeg" alt="Interns"/>
+                <StyledImg src="/public/img/TriumphInterns.jpeg" alt="Interns"/>
                 <StyledParagraph> I worked at Triumph Group as a Software Engineer Intern.
                     The company works on producing Engine Control Units and Fuel Pumps</StyledParagraph>
             </StyledDivSegments>
@@ -26,7 +27,7 @@ export default function Experience() {
                 </ul>
             </StyledDivSegments>
             <StyledDivSegments className="segments">
-                <StyledImg src="../../../public/img/CANape.png" alt="CAN"/>
+                <StyledImg src="/public/img/CANape.png" alt="CAN"/>
                 <StyledParagraph>Additionally, I have gotten to work with tools such as CANape, Oscilloscopes,
                     Function Generators, Green Hills Integrity, and Xilinx MPSoC.</StyledParagraph>
             </StyledDivSegments>

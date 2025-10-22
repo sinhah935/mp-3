@@ -7,7 +7,7 @@ export default function Certification() {
             <StyledH2> National Student Data Corps: Data Science Projects </StyledH2>
             <br/>
             <StyledDivSegments className="segments">
-                <StyledImg src="../../../public/img/DataCert.png" alt="Cert"/>
+                <StyledImg src="/public/img/DataCert.png" alt="Cert"/>
                 <StyledParagraph> I participated in a one month program getting into data science.
                     Our task was to collect data in NYC and come up with basic analysis on it.
                     <br/>My goal in pursuing this was to figure out what niche of Software
